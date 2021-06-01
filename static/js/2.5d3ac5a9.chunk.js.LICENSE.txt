@@ -55,6 +55,14 @@ object-assign
  * Date: 2021-03-02T17:08Z
  */
 
+/*!
+devtools-detect
+Detect if DevTools is open
+https://github.com/sindresorhus/devtools-detect
+By Sindre Sorhus
+MIT License
+*/
+
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 
