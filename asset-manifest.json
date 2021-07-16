@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.e6b0dc31.chunk.css",
-    "main.js": "/static/js/main.cfcad07a.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.96a597b4.js",
+    "main.js": "/static/js/main.b5533e63.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.3c0168f8.js",
     "static/css/2.52d1491a.chunk.css": "/static/css/2.52d1491a.chunk.css",
-    "static/js/2.e2563ee9.chunk.js": "/static/js/2.e2563ee9.chunk.js",
-    "static/js/3.33981453.chunk.js": "/static/js/3.33981453.chunk.js",
-    "static/js/4.1d33a2a6.chunk.js": "/static/js/4.1d33a2a6.chunk.js",
+    "static/js/2.b5d10d16.chunk.js": "/static/js/2.b5d10d16.chunk.js",
+    "static/js/3.0e1c1109.chunk.js": "/static/js/3.0e1c1109.chunk.js",
+    "static/js/4.57bb13ea.chunk.js": "/static/js/4.57bb13ea.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.e2563ee9.chunk.js.LICENSE.txt": "/static/js/2.e2563ee9.chunk.js.LICENSE.txt",
-    "static/media/2.jpg": "/static/media/2.fae12802.jpg",
+    "static/js/2.b5d10d16.chunk.js.LICENSE.txt": "/static/js/2.b5d10d16.chunk.js.LICENSE.txt",
+    "static/media/2.fae12802.jpg": "/static/media/2.fae12802.jpg",
     "static/media/index.css": "/static/media/De.4325c2f9.ttf",
     "static/media/App.css": "/static/media/Font9.acd8c5d4.ttf",
-    "static/media/HH.png": "/static/media/HH.f4cea862.png",
+    "static/media/HH.png": "/static/media/HH.b829c77c.png",
+    "static/media/HH.f4cea862.png": "/static/media/HH.f4cea862.png",
     "static/media/K'HO-HOUSE.51ec780c.jpg": "/static/media/K'HO-HOUSE.51ec780c.jpg",
     "static/media/KHOMA.png": "/static/media/KHOMA.deb3572d.png",
     "static/media/KohoReader.675c0e35.jpg": "/static/media/KohoReader.675c0e35.jpg",
@@ -21,9 +22,9 @@
     "static/media/MUSEUM.28c3af26.JPG": "/static/media/MUSEUM.28c3af26.JPG",
     "static/media/Nganh2021.jpg": "/static/media/Nganh2021.85613fb1.jpg",
     "static/media/Nguoi_K'Ho.492ede4a.jpg": "/static/media/Nguoi_K'Ho.492ede4a.jpg",
-    "static/media/SC2.png": "/static/media/SC2.34adbafd.png",
-    "static/media/SC3.png": "/static/media/SC3.537e3b0c.png",
-    "static/media/SC4.png": "/static/media/SC4.b8d932a0.png",
+    "static/media/SC2.34adbafd.png": "/static/media/SC2.34adbafd.png",
+    "static/media/SC3.537e3b0c.png": "/static/media/SC3.537e3b0c.png",
+    "static/media/SC4.b8d932a0.png": "/static/media/SC4.b8d932a0.png",
     "static/media/ZALO1.svg": "/static/media/ZALO1.8b41951c.svg",
     "static/media/bc.png": "/static/media/bc.e531df2b.png",
     "static/media/bh.png": "/static/media/bh.df8b8804.png",
@@ -41,10 +42,10 @@
     "static/media/vanhoa.d2ef2b30.jpg": "/static/media/vanhoa.d2ef2b30.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96a597b4.js",
+    "static/js/runtime-main.3c0168f8.js",
     "static/css/2.52d1491a.chunk.css",
-    "static/js/2.e2563ee9.chunk.js",
+    "static/js/2.b5d10d16.chunk.js",
     "static/css/main.e6b0dc31.chunk.css",
-    "static/js/main.cfcad07a.chunk.js"
+    "static/js/main.b5533e63.chunk.js"
   ]
 }
