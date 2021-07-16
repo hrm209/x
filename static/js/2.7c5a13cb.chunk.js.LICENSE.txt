@@ -16,12 +16,6 @@ object-assign
    */
 
 /*!
-  Copyright (c) 2018 Jed Watson.
-  Licensed under the MIT License (MIT), see
-  http://jedwatson.github.io/classnames
-*/
-
-/*!
  * CSSPlugin 3.6.1
  * https://greensock.com
  *
@@ -54,14 +48,6 @@ object-assign
  *
  * Date: 2021-03-02T17:08Z
  */
-
-/*!
-devtools-detect
-Detect if DevTools is open
-https://github.com/sindresorhus/devtools-detect
-By Sindre Sorhus
-MIT License
-*/
 
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
