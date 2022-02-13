@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e6b0dc31.chunk.css",
-    "main.js": "/static/js/main.a8d08ecc.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.2f6000d3.js",
+    "main.js": "/static/js/main.2a8567fb.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.823d395f.js",
     "static/css/2.52d1491a.chunk.css": "/static/css/2.52d1491a.chunk.css",
     "static/js/2.d65e046c.chunk.js": "/static/js/2.d65e046c.chunk.js",
-    "static/js/3.4b91266e.chunk.js": "/static/js/3.4b91266e.chunk.js",
-    "static/js/4.f9785bba.chunk.js": "/static/js/4.f9785bba.chunk.js",
+    "static/js/3.d6ef596b.chunk.js": "/static/js/3.d6ef596b.chunk.js",
+    "static/js/4.40fdcdaf.chunk.js": "/static/js/4.40fdcdaf.chunk.js",
     "static/js/5.566bc772.chunk.js": "/static/js/5.566bc772.chunk.js",
     "index.html": "/index.html",
     "static/js/2.d65e046c.chunk.js.LICENSE.txt": "/static/js/2.d65e046c.chunk.js.LICENSE.txt",
-    "static/js/3.4b91266e.chunk.js.LICENSE.txt": "/static/js/3.4b91266e.chunk.js.LICENSE.txt",
+    "static/js/3.d6ef596b.chunk.js.LICENSE.txt": "/static/js/3.d6ef596b.chunk.js.LICENSE.txt",
     "static/media/2.fae12802.jpg": "/static/media/2.fae12802.jpg",
     "static/media/index.css": "/static/media/De.4325c2f9.ttf",
     "static/media/App.css": "/static/media/Font9.acd8c5d4.ttf",
@@ -32,10 +32,6 @@
     "static/media/cb.06e33a11.jpg": "/static/media/cb.06e33a11.jpg",
     "static/media/covid.f25b432d.png": "/static/media/covid.f25b432d.png",
     "static/media/cuoihoi.70dde81c.jpg": "/static/media/cuoihoi.70dde81c.jpg",
-    "static/media/kho.a3430ad2.jpg": "/static/media/kho.a3430ad2.jpg",
-    "static/media/kho3.653da6b3.jpg": "/static/media/kho3.653da6b3.jpg",
-    "static/media/kho7.49ee97a0.png": "/static/media/kho7.49ee97a0.png",
-    "static/media/khocf.d99b93d6.jpg": "/static/media/khocf.d99b93d6.jpg",
     "static/media/lang.jpg": "/static/media/lang.3ef63fc1.jpg",
     "static/media/logo.5e3f7500.png": "/static/media/logo.5e3f7500.png",
     "static/media/logo1.81f48ad7.png": "/static/media/logo1.81f48ad7.png",
@@ -44,10 +40,10 @@
     "static/media/vanhoa.jpg": "/static/media/vanhoa.d2ef2b30.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f6000d3.js",
+    "static/js/runtime-main.823d395f.js",
     "static/css/2.52d1491a.chunk.css",
     "static/js/2.d65e046c.chunk.js",
     "static/css/main.e6b0dc31.chunk.css",
-    "static/js/main.a8d08ecc.chunk.js"
+    "static/js/main.2a8567fb.chunk.js"
   ]
 }
