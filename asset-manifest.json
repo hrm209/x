@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.aa6af5f4.chunk.css",
-    "main.js": "/static/js/main.cd5ff206.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.4107ec79.js",
+    "main.js": "/static/js/main.edd19641.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.0b66dc39.js",
     "static/css/2.52d1491a.chunk.css": "/static/css/2.52d1491a.chunk.css",
     "static/js/2.d65e046c.chunk.js": "/static/js/2.d65e046c.chunk.js",
     "static/js/3.d6ef596b.chunk.js": "/static/js/3.d6ef596b.chunk.js",
-    "static/js/4.83b0e6ef.chunk.js": "/static/js/4.83b0e6ef.chunk.js",
+    "static/js/4.6e6793ac.chunk.js": "/static/js/4.6e6793ac.chunk.js",
     "static/js/5.566bc772.chunk.js": "/static/js/5.566bc772.chunk.js",
     "index.html": "/index.html",
     "static/js/2.d65e046c.chunk.js.LICENSE.txt": "/static/js/2.d65e046c.chunk.js.LICENSE.txt",
@@ -40,10 +40,10 @@
     "static/media/vanhoa.jpg": "/static/media/vanhoa.d2ef2b30.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4107ec79.js",
+    "static/js/runtime-main.0b66dc39.js",
     "static/css/2.52d1491a.chunk.css",
     "static/js/2.d65e046c.chunk.js",
     "static/css/main.aa6af5f4.chunk.css",
-    "static/js/main.cd5ff206.chunk.js"
+    "static/js/main.edd19641.chunk.js"
   ]
 }
